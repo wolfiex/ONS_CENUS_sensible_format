@@ -13,6 +13,6 @@ For each item in parallel:
 - download in memory
 - unzip in RAM
 - read each zipped file
-- merge individual data tables
+- merge data tables
 - use description table to assign headers
 - save 
