@@ -11,6 +11,8 @@ A directory to extract ons data in a *god forbid* intuitive format.
 
 For each item in parallel:
 - download in memory
+- unzip in RAM
+- read each zipped file
 - merge individual data tables
 - use description table to assign headers
 - save 
